@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">📊 High-Frequency Limit Order Book Dynamics</h1>
+  <h1 align="center">High-Frequency Limit Order Book Dynamics</h1>
   <p align="center">
     <strong>Quantitative Market Microstructure Analysis & Algorithmic Market Making</strong>
   </p>
@@ -41,16 +41,16 @@ An end-to-end research platform that combines **LOB simulation**, **Hawkes proce
 
 | Feature | Status | Description |
 |---|---|---|
-| LOB Simulation Engine | ✅ Complete | Synthetic order book with realistic price dynamics and tick-level granularity |
-| Hawkes Process Model | ✅ Complete | Self-exciting point process with MLE fitting and Ogata's thinning simulation |
-| Order Flow Imbalance (OFI) | ✅ Complete | Tracks net buying/selling pressure at best bid/ask |
-| VPIN (Flow Toxicity) | ✅ Complete | Volume-synchronized probability of informed trading |
-| Avellaneda-Stoikov Strategy | ✅ Complete | Inventory-aware optimal quoting with reservation pricing |
-| Event-Driven Backtesting | ✅ Complete | Position-limited engine with Sharpe, drawdown, and return metrics |
-| Sensitivity Analysis | ✅ Complete | Grid search over (γ, k) parameter space with heatmap output |
-| Multi-Stock Batch Testing | ✅ Complete | Cross-asset strategy evaluation (RELIANCE, TCS, INFY, HDFCBANK) |
-| Interactive Dashboard | ✅ Complete | Real-time LOB visualization, backtest controls, technical report |
-| NSE Data Integration | 🔲 Planned | Real NSE tick data loading (placeholder exists) |
+| LOB Simulation Engine | ✅ | Synthetic order book with realistic price dynamics and tick-level granularity |
+| Hawkes Process Model | ✅ | Self-exciting point process with MLE fitting and Ogata's thinning simulation |
+| Order Flow Imbalance (OFI) | ✅ | Tracks net buying/selling pressure at best bid/ask |
+| VPIN (Flow Toxicity) | ✅ | Volume-synchronized probability of informed trading |
+| Avellaneda-Stoikov Strategy | ✅ | Inventory-aware optimal quoting with reservation pricing |
+| Event-Driven Backtesting | ✅ | Position-limited engine with Sharpe, drawdown, and return metrics |
+| Sensitivity Analysis | ✅ | Grid search over (γ, k) parameter space with heatmap output |
+| Multi-Stock Batch Testing | ✅ | Cross-asset strategy evaluation (RELIANCE, TCS, INFY, HDFCBANK) |
+| Interactive Dashboard | ✅ | Real-time LOB visualization, backtest controls, technical report |
+| NSE Data Integration | Planned | Real NSE tick data loading (placeholder exists) |
 
 ### Success Metrics
 
